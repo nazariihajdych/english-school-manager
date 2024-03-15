@@ -17,6 +17,9 @@
 	<description>Online platform for English school </description>
 	<modules>
 		<module>school-manager-common</module>
+        <module>school-manager-data</module>
+		<module>school-manager-service</module>
+		<module>school-manager-web</module>
 	</modules>
 
 	<properties>
