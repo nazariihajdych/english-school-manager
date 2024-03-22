@@ -1,10 +1,7 @@
 # English School Manager
----
 ## Overview
----
 The "English School Manager" is a web-based application designed to facilitate remote education and collaboration between students and teachers. It aims to provide a seamless learning experience through the organization of courses, lessons, homework, and grades. The platform caters to both individual students and groups, allowing for personalized learning paths and group interactions.
 ## Features
----
 1. **User Management:**
     - Registration and authentication for students, teachers, and administrators.
     - User profiles with personal information and role-based access control.
@@ -21,6 +18,5 @@ The "English School Manager" is a web-based application designed to facilitate r
 6. **Security and Privacy:**
     - Implementation of secure authentication and authorization mechanisms.
     - Protection of user data and compliance with privacy regulations.
----
-Data structure - PostgreSQL
+## Data structure - PostgreSQL
 ![PostgreSQL schema.png](docs%2FPostgreSQL%20schema.png)
